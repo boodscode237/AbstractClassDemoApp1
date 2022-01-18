@@ -10,7 +10,7 @@ namespace AbstractClassDemo
     {
         static void Main(string[] args)
         {
-
+            InventoryItem book = new Book();
             Console.ReadLine();
         }
     }
